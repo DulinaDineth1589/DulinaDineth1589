@@ -4,7 +4,7 @@
   2. Optional: add .github/workflows/snake.yml (included) for the animated contribution snake.
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:38bdf8&height=250&section=header&text=Dulina%20Dineth&fontSize=60&fontColor=ffffff&fontAlign=50&fontAlignY=36&animation=fadeIn&desc=Flutter%20Developer%20%7C%20Backend%20Developer%20%7C%20Software%20Engineering%20Student&descSize=18&descAlign=50&descAlignY=58" width="100%" alt="Dulina Dineth"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:38bdf8&height=250&section=header&text=Dulina%20Dineth&fontSize=60&fontColor=ffffff&fontAlign=50&fontAlignY=36&animation=fadeIn&desc=Flutter%20Developer%20%7C%20%Software%20Engineering%20Student&descSize=18&descAlign=50&descAlignY=58" width="100%" alt="Dulina Dineth"/>
 
 <div align="center">
 
@@ -22,7 +22,7 @@
 
 <a href="https://github.com/DulinaDineth1589"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/REPLACE_WITH_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:REPLACE_WITH_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:dulinadineth2021@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://facebook.com/Dulina.Dineth"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 
 <br/><br/>
